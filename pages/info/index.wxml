@@ -1,0 +1,10 @@
+<!--pages/info/index.wxml-->
+<view class="container">
+  <text>pages/info/index.wxml</text>
+</view>
+<view class="title">
+  <text></text>
+</view>
+<view class="maininfo" wx:for="{{infor}}">
+    {{item}}
+</view>
