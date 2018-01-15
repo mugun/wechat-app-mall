@@ -1,6 +1,7 @@
 <!--pages/info/index.wxml-->
 <view class="container">
   <text>pages/info/index.wxml</text>
+  <image></image><!--在此处添加想要的关联的文字或者图片-->
 </view>
 <view class="title">
   <text></text>
